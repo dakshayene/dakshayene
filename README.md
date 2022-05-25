@@ -1,3 +1,4 @@
+- [My Image](C:\Users\Dakshayene\Pictures\my-image.jpg)
 - 👋 Hi, I’m @dakshayene
 - 👀 I’m interested in Data Science and Cloud Computing
 - 🌱 I’m currently learning Computer Science Engineering at KL University Hyderabad
