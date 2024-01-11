@@ -1,7 +1,5 @@
 hello
 
-   ![Untitled design](https://user-images.githubusercontent.com/82378298/170249900-4f9296a3-c4be-4c16-afad-9e692b3b49b2.jpg)
-
                     
 - 👋 Hi, I’m @dakshayene
 - 👀 I’m interested in Data Science and Cloud Computing
